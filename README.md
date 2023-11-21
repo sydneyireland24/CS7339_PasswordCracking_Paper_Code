@@ -7,9 +7,9 @@ This script was written for a System Security Class taken at SMU during the Fall
 -argv[1]: Password Dictionary File Path <br>
 -argv[2]: Rainbow Table File Path <br>
 -argv[3]: which algorithm you want to run <br>
-      -1: Brute Force
-      -2: Dictionary
-      -3: Rainbow Table
+      -1: Brute Force <br>
+      -2: Dictionary <br>
+      -3: Rainbow Table <br>
 -argv[4]: the password hash for which you are hoping to crack <br>
 
 ### Assumptions
