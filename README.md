@@ -25,4 +25,5 @@ This script was written for a System Security Class taken at SMU during the Fall
 
 ## References
 -Hashing functionality: https://hashlib2plus.sourceforge.net/ <br>
--Common passwords file: https://github.com/Freeguy1/Wordlistss/tree/master <br>
+-Common Passwords file: https://github.com/Freeguy1/Wordlistss/blob/master/realhuman_phill.txt <br>
+-Rainbow Table File: <br>
